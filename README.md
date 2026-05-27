@@ -13,4 +13,22 @@ There are a bunch of projects, but the best of my work is [Smart-India-Nutrition
 
 You can reach me through my gmail, linkedin and Portfolio.
 
+## 🛠️ Tools & Technologies
+
+### Frontend
+- React.js
+- JavaScript
+- Tailwind CSS
+
+### UI/Animation
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- PostgreSQL
+
+### Programming & DSA
+- Java
+
 
