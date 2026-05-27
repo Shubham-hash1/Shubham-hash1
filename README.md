@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Shubham-hash1/Shubham-hash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+i'm shubham, a Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build websites i imagine.
+
+My main tech stack is React.js, Node.js, Express.js, postgreSql and framer motion.
+
+I'm currently learning System design, Ai/Ml.
+
+There are a bunch of projects, but the best of my work is [Smart-India-Nutrition](https://github.com/shubhamnegi/Smart-India-Nutrition)
+
+You can reach me through my gmail, linkedin and Portfolio.
+
+
