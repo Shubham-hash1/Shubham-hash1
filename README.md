@@ -21,7 +21,7 @@ You can reach me through my gmail, linkedin and Portfolio.
 ### Backend
 - Node.js, Express.js, PostgreSQL
 ### Programming & DSA
-- Java
+- JavaScript
 
 
 
